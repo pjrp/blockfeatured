@@ -1,0 +1,26 @@
+.block-featured {
+    clear: both;
+}
+
+.block-featured .title_block {
+    font-style: italic;
+    text-transform: lowercase;
+    padding-top: 0px;
+    margin: 0px;
+}
+
+.block-featured .title_block span {
+    font-family: serif;
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: 32px;
+}
+
+.block-featured .product_list.grid .product-container {
+    margin-bottom: 0px;
+}
+
+.block-featured .product_list.grid .functional-buttons,
+.block-featured .product_list.grid .product-actions-container {
+    display: none;
+}
